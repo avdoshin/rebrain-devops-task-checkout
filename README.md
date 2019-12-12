@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 "В данном репозитории находится дефолтный конфигурационный файл nginx"
 =======
 **Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
@@ -47,3 +48,6 @@ Use these steps to clone from SourceTree, our client for using the repository co
 
 Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
 >>>>>>> 869afa37eed493be800ff639ddd2639ddc479035
+=======
+"В данном репозитории находится дефолтный конфигурационный файл nginx"
+>>>>>>> 8778380e35514b07cf2e7c04081e1279537b2486
